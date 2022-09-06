@@ -1,4 +1,4 @@
-# biquadris
+# Biquadris
 
 Tetris is expanded for two player competition, leading to this game Biquandris.
 
