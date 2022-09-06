@@ -10,3 +10,7 @@ Biquadris is not real-time, i.e. you have as much time to decide where to put a 
 1)blind: The player’s board, from columns 3-9, and from rows 3-12, is covered with question marks (?), until the player drops a block; then the display reverts to normal. 
 2)heavy: Every time a player moves a block left or right, the block automatically falls by two rows, after the horizontal move. If it is not possible for the block to drop two rows, it is considered to be dropped, and the turn ends. If the player is already in a level in which blocks are heavy, the effect is cumulative (i.e., the player suffers from both effects).
 3)force: Change the opponent’s current block to be one of the player’s choosing. If the block cannot be placed in its initial position, the opponent loses. (E.g., force Z)
+
+The game has both text-based and graphical displays. They look as follows:
+<img width="1008" alt="Screen Shot 2022-09-06 at 5 18 39 PM" src="https://user-images.githubusercontent.com/112984472/188740534-66f7a036-bb57-44e5-8ff0-40dbb5f9ae30.png">
+<img width="334" alt="Screen Shot 2022-09-06 at 5 18 52 PM" src="https://user-images.githubusercontent.com/112984472/188740582-4163ba03-d40c-4417-9f52-e7ca22ad264f.png">
